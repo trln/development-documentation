@@ -10,7 +10,7 @@ Use pull requests for all changes.  Pull requests cannot be merged by their crea
 
 # Git Workflow for All Projects
 
-(Github flow)
+(somewhere in between GitHub flow and Git Flow)
 
 `master` is for production-ready code (working, deployable)
 
